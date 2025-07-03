@@ -1,0 +1,9 @@
+daam==0.2.0
+diffusers==0.21.2
+huggingface-hub==0.25.0
+kaleido==0.2.1
+matplotlib==3.10.1
+pandas==2.2.3
+torch==2.6.0
+tqdm==4.67.1
+plotly==6.1.1
