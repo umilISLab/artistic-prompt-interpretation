@@ -1,4 +1,4 @@
-# The Cow of Rembrandt: Analyzing Artistic Prompt Interpretation in Text-to-Image Models
+# 🐮 The Cow of Rembrandt: Analyzing Artistic Prompt Interpretation in Text-to-Image Models
 
 <p align="center"><img src="main-example.png" alt="Result Examples" width=800></p>
 
