@@ -7,6 +7,8 @@
 
 This research investigates how text-to-image diffusion models internally represent artistic concepts like content and style when generating artworks. Using cross-attention analysis, we examine how these models separate content-describing and style-describing elements in prompts. Our findings reveal that diffusion models show varying degrees of content-style separation, with content tokens typically influencing object regions and style tokens affecting backgrounds and textures.
 
+Explore the complete set of generated images [here](https://thecowofrembrandt.islab.di.unimi.it/)!
+
 ## Repository Structure
 
 ```
