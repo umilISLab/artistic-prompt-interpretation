@@ -73,9 +73,9 @@ The entities used for populating the prompts have been taken from:
 - [Artists](https://github.com/cs-chan/ArtGAN/blob/master/WikiArt%20Dataset/Artist/artist_class)
 - [Movements](https://github.com/cs-chan/ArtGAN/blob/master/WikiArt%20Dataset/Style/style_class.txt)
 
-<!-- ### Data Availability
+### Data Availability
 
-The complete set of generated images can be downloaded from here. -->
+The complete set of prompts and generated images can be downloaded from [Dataverse](https://dataverse.unimi.it/dataset.xhtml?persistentId=doi:10.13130/RD_UNIMI/U9AZJI#).
 
 <!-- ## Citation
 
