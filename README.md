@@ -1,5 +1,7 @@
 # 🐮 The Cow of Rembrandt: Analyzing Artistic Prompt Interpretation in Text-to-Image Models
 
+🗃️ [Dataset](https://dataverse.unimi.it/dataset.xhtml?persistentId=doi:10.13130/RD_UNIMI/U9AZJI) | 🤗 [HuggingFace](https://huggingface.co/datasets/sergiopicascia/thecowofrembrandt) | 🖼️ [WebApp](https://thecowofrembrandt.islab.di.unimi.it/)
+
 <p align="center"><img src="main-example.png" alt="Result Examples" width=800></p>
 
 <!--- [![DOI](https://zenodo.org/badge/DOI/[DOI-NUMBER].svg)](https://doi.org/[DOI-NUMBER]) 
@@ -77,19 +79,31 @@ The entities used for populating the prompts have been taken from:
 
 The complete set of prompts and generated images can be downloaded from [Dataverse](https://dataverse.unimi.it/dataset.xhtml?persistentId=doi:10.13130/RD_UNIMI/U9AZJI#).
 
-<!-- ## Citation
+## Citation
 
 If you use this code or find our work helpful, please cite:
 
 ```bibtex
-@article{[citation-key],
-  title={[Paper Title]},
-  author={[Author Names]},
-  journal={[Journal Name]},
-  year={[Year]},
-  volume={[Volume]},
-  number={[Number]},
-  pages={[Pages]},
-  doi={[DOI]}
+@misc{ferrara2025thecowofrembrandt,
+  title={The Cow of Rembrandt - Analyzing Artistic Prompt Interpretation in Text-to-Image Models}, 
+  author={Alfio Ferrara and Sergio Picascia and Elisabetta Rocchetti},
+  year={2025},
+  eprint={2507.23313},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2507.23313}, 
 }
-``` -->
+
+@data{ferrara2025thecowofrembrandtdata,
+  author = {Alfio Ferrara and Sergio Picascia and Elisabetta Rocchetti},
+  publisher = {UNIMI Dataverse},
+  title = {{Replication Data for: The Cow of Rembrandt - Analyzing Artistic Prompt Interpretation in Text-to-Image Models}},
+  UNF = {UNF:6:u5RBXaFNb7TZlm5eXDXIVw==},
+  year = {2025},
+  version = {V1},
+  doi = {10.13130/RD_UNIMI/U9AZJI},
+  url = {https://doi.org/10.13130/RD_UNIMI/U9AZJI}
+}
+```
+
+
