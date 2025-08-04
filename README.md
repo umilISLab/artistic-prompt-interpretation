@@ -93,7 +93,11 @@ If you use this code or find our work helpful, please cite:
   primaryClass={cs.CV},
   url={https://arxiv.org/abs/2507.23313}, 
 }
+```
 
+If you use the data provided, please cite:
+
+```bibtex
 @data{ferrara2025thecowofrembrandtdata,
   author = {Alfio Ferrara and Sergio Picascia and Elisabetta Rocchetti},
   publisher = {UNIMI Dataverse},
